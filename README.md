@@ -5,6 +5,7 @@
 * `index.Rmd`: R markdown for generating all plots on the screen
 * `index.html`: Generated html for easier review
 
+Your can also review the [github pages](https://chiahsun.github.io/ExData_Plotting1/) for code.
 
 ## Introduction
 
