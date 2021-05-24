@@ -9,7 +9,7 @@ usedPowerConsumption <- mutate(usedPowerConsumption, datetime = dmy_hms((paste(D
 
 png('./plot4.png')
 Sys.setlocale(category = "LC_ALL", locale = "en_US.UTF-8")
-par(mfrow = c(2, 2))
+par(mfrow = c(2, 2), mar=c(4, 4, 2, 1))
 
 # 1
 with(usedPowerConsumption, plot(datetime, Global_active_power, type="l", ylab = "Global Active Power", xlab=""))
