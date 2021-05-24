@@ -1,3 +1,11 @@
+# File Description
+
+* `plot1.R`, `plot2.R`, `plot3.R`, `plot4.R`: R files to generate plots
+* `plot1.png`, `plot2.png`, `plot3.png`, `plot4.png`: Demanded plots in PNG format
+* `index.Rmd`: R markdown for generating all plots on the screen
+* `index.html`: Generated html for easier review
+
+
 ## Introduction
 
 This assignment uses data from
